@@ -1,0 +1,35 @@
+body{
+	background-color: #454571;
+	margin:0;
+	padding-top: 50pxq;
+	text-align: center;
+	font-weight: bold;
+	font-size: 28px;
+
+}
+
+table{
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 600px;
+	padding: 8px;
+	
+
+}
+table, tr, td{
+	border: 1px solid black;
+	
+}
+td{
+	margin: 0 auto;
+	font-weight: bold;
+	padding: 5px;
+	color:#B8DBFF;
+	text-align: center;
+}
+tr:first-child td{
+	color: #000000; 
+}
+td:first-child{
+	color: #000000; 
+}

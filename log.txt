@@ -1,0 +1,17 @@
+log.txt
+
+
+Start: Thu, 05 Feb 2015 15:00:00 -0800
+End: Thu, 05 Feb 2015 22:03:13 -0800
+Read up on PHP while building dynamic table. Created test HTML form. 
+Table created, with ability to check for correct parameters.
+Created login.php, content1.php, multtable.php
+
+Start: Fri, 06 Feb 2015 17:00:00 -0800
+End: Fri, 06 Feb 2015 20:49:22 -0800
+Created login, content1, content2, and a page that runs a logout script (logout.php)
+All pages should be working as the homework requested.
+
+Start: Sat, 07 Feb 2015 15:20:00 -0800
+End: Sat, 07 Feb 2015 17:25:01 -0800
+Created an htaccess file, and finished loopback.php
